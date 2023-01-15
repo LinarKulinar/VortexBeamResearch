@@ -1,0 +1,14 @@
+.DS_Store
+
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+*.pyc
+*.pyo
+
+.idea/
+
+Double-OV-intenisities
+modeled_beam_images_101
+modeled_beam_images_505
